@@ -9,7 +9,6 @@ export { ev, Spin } from './controllers/events'
 export * from './utils/tools'
 export * from './logging/logging'
 export * from './structures/preProcessors'
-export * from '@open-wa/wa-automate-socket-client';
 export { Client, SimpleListener }
 //dont need to export this
 // export { getConfigWithCase } from './utils/configSchema'
